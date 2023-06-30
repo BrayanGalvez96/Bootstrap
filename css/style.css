@@ -1,0 +1,57 @@
+.content-b{
+    background: red;
+    padding-top: 40px;
+
+
+}
+
+.columna-b{
+    height: 120px;
+    background: white;
+    border: 2px solid #000;
+    margin-bottom: 10px;
+}
+
+.form-portafolio{
+    background: rgb(86, 124, 86);
+    padding: 30px;
+    border-radius: 30px;
+
+}
+
+.form-portafolio label{
+    font-size: 30px;
+    color: #5f1d1d; 
+}
+
+.form-portafolio input{
+    background: transparent;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 2px solid #521212;
+    padding: 20px 15px;
+
+}
+
+.form-portafolio input:focus{
+    background: transparent;
+    border-bottom: 2px solid #fff;
+    box-shadow: 0 0 0 transparent; 
+
+}
+
+.nav-portafolio{
+    background: rgb(106, 106, 233);
+}
+
+.nav-portafolio ul li{
+    margin: 0 5px;
+}
+
+.nav-portafolio ul li a{
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    border-bottom: 2px solid #fff;
+}
